@@ -2,7 +2,7 @@ At last iPhone content blocking we can all support. Replaces occurrences of “t
 
 App can be downloaded at https://itunes.apple.com/app/dump-the-trump/id1043974859.
 For more info head over to http://www.dumpthetrump.xyz
-Press kit can be found at 
+Press kit can be found at https://github.com/stringcode86/dtt/raw/master/press%20kit.zip
 Funny app trailer video https://www.youtube.com/watch?v=Mml_LdZ2oQY
-Raw video at 4k
-Raw video at 1080
+Raw video at 4k https://github.com/stringcode86/dtt/raw/master/4k.mp4
+Raw video at 1080 https://github.com/stringcode86/dtt/raw/master/1080.mp4
